@@ -1,4 +1,4 @@
-fn main() {
+pub fn overflow_handlers() {
     let a: u8 = 255;
     let b: u8 = 1;
 
