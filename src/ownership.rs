@@ -21,4 +21,8 @@ pub fn ownership() {
 
     println!("s1 = {s1}, s2 = {s2}");
 
+    let x = 5;
+    let y = x;
+
+    println!("x = {x}, y = {y}");
 }
