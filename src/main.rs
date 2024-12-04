@@ -17,6 +17,7 @@ fn main() {
     // ownership:: ownership_in_functions();
     // ownership:: ownership_in_return();
     // ownership:: return_multiple_values();
-    references_and_borrowing:: references()
+    // references_and_borrowing:: references();
+    references_and_borrowing:: modify_references();
 
 }
